@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="312" viewBox="0 0 440 312" role="img" aria-label="Security &amp; Networks: Cryptography, Linux security, Firewalls, Ethical hacking basics, Behaviour analysis, TCP/IP, Subnetting, VLAN, SSH, HSRP, EtherChannel" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Security &amp; Networks: Cryptography, Linux security, Firewalls, Ethical hacking basics, Behaviour analysis, TCP/IP, Subnetting, VLAN, SSH, HSRP, EtherChannel</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/>
+</linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+</linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+  <path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/>
+</pattern>
+</defs>
+<rect width="440" height="312" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="439" height="311" rx="6" fill="#100f18" stroke="#2a2144"/>
+<rect width="3" height="312" fill="#8b5cf6"/>
+<path d="M409.8 301.0 L370.0 324.0 L330.2 301.0 L330.2 255.0 L370.0 232.0 L409.8 255.0 Z" fill="none" stroke="#8b5cf6" stroke-opacity=".07" stroke-width="2"/>
+<text x="22" y="38" font-size="14" font-weight="700" fill="#34d399">05</text>
+<text x="54" y="38" font-size="14" font-weight="700" fill="#c4b5fd" letter-spacing="3">SECURITY &amp; NETWORKS</text>
+<circle cx="416" cy="33" r="3.5" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+<rect x="22" y="52" width="396" height="1" fill="#2a2144"/>
+<text x="22" y="76" font-size="12" fill="#8a86a3" letter-spacing="2">SECURITY</text>
+<rect x="22" y="86" width="130" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="105" font-size="15" fill="#ddd6fe">Cryptography</text>
+<rect x="160" y="86" width="148" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="171" y="105" font-size="15" fill="#ddd6fe">Linux security</text>
+<rect x="22" y="122" width="103" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="141" font-size="15" fill="#ddd6fe">Firewalls</text>
+<rect x="133" y="122" width="220" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="144" y="141" font-size="15" fill="#ddd6fe">Ethical hacking basics</text>
+<rect x="22" y="158" width="184" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="177" font-size="15" fill="#ddd6fe">Behaviour analysis</text>
+<text x="22" y="212" font-size="12" fill="#8a86a3" letter-spacing="2">NETWORKING</text>
+<rect x="22" y="222" width="76" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="241" font-size="15" fill="#ddd6fe">TCP/IP</text>
+<rect x="106" y="222" width="112" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="117" y="241" font-size="15" fill="#ddd6fe">Subnetting</text>
+<rect x="226" y="222" width="58" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="237" y="241" font-size="15" fill="#ddd6fe">VLAN</text>
+<rect x="292" y="222" width="49" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="303" y="241" font-size="15" fill="#ddd6fe">SSH</text>
+<rect x="349" y="222" width="58" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="360" y="241" font-size="15" fill="#ddd6fe">HSRP</text>
+<rect x="22" y="258" width="130" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="277" font-size="15" fill="#ddd6fe">EtherChannel</text>
+</svg>

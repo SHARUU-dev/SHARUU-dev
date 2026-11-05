@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="272" viewBox="0 0 440 272" role="img" aria-label="BEE AI: A language-model project built from the ground up: tokenization, transformer architecture, training pipeline, voice interaction and Discord integration." font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>BEE AI: A language-model project built from the ground up: tokenization, transformer architecture, training pipeline, voice interaction and Discord integration.</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/>
+</linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+</linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+  <path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/>
+</pattern>
+</defs>
+<rect width="440" height="272" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="439" height="271" rx="6" fill="#100f18" stroke="#2a2144"/>
+<rect width="3" height="272" fill="#8b5cf6"/>
+<path d="M427.7 243.0 L374.0 274.0 L320.3 243.0 L320.3 181.0 L374.0 150.0 L427.7 181.0 Z" fill="#8b5cf6" fill-opacity=".04" stroke="#8b5cf6" stroke-opacity=".12" stroke-width="2"/>
+<text x="22" y="38" font-size="13" fill="#8a86a3" letter-spacing="2">P/01</text>
+<rect x="269.2" y="20" width="148.8" height="26" rx="13" fill="#34d399" fill-opacity=".08" stroke="#34d399" stroke-opacity=".6"/>
+<circle cx="284.2" cy="33" r="3.5" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="294.2" y="37" font-size="11" font-weight="700" fill="#34d399" letter-spacing="1">IN DEVELOPMENT</text>
+<text x="22" y="92" font-size="34" font-weight="800" letter-spacing="2" fill="url(#gWord)">BEE AI</text>
+<text x="22" y="118" font-size="13" fill="#9b8fd0">language model · python · pytorch</text>
+<rect x="22" y="132" width="40" height="2" fill="#34d399" fill-opacity=".8"/>
+<text x="22" y="162" font-size="15" fill="#e7e5f2">A language-model project built from the</text>
+<text x="22" y="186" font-size="15" fill="#e7e5f2">ground up: tokenization, transformer</text>
+<text x="22" y="210" font-size="15" fill="#e7e5f2">architecture, training pipeline, voice</text>
+<text x="22" y="234" font-size="15" fill="#e7e5f2">interaction and Discord integration.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="332" viewBox="0 0 440 332" role="img" aria-label="Web: HTML5, CSS3, React, Node.js, Express.js, REST APIs, JSON" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Web: HTML5, CSS3, React, Node.js, Express.js, REST APIs, JSON</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/>
+</linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+</linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+  <path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/>
+</pattern>
+</defs>
+<rect width="440" height="332" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="439" height="331" rx="6" fill="#100f18" stroke="#2a2144"/>
+<rect width="3" height="332" fill="#8b5cf6"/>
+<path d="M409.8 321.0 L370.0 344.0 L330.2 321.0 L330.2 275.0 L370.0 252.0 L409.8 275.0 Z" fill="none" stroke="#8b5cf6" stroke-opacity=".07" stroke-width="2"/>
+<text x="22" y="38" font-size="14" font-weight="700" fill="#34d399">02</text>
+<text x="54" y="38" font-size="14" font-weight="700" fill="#c4b5fd" letter-spacing="3">WEB</text>
+<circle cx="416" cy="33" r="3.5" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+<rect x="22" y="52" width="396" height="1" fill="#2a2144"/>
+<text x="22" y="76" font-size="12" fill="#8a86a3" letter-spacing="2">FRONTEND</text>
+<rect x="22" y="86" width="67" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="105" font-size="15" fill="#ddd6fe">HTML5</text>
+<rect x="97" y="86" width="58" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="108" y="105" font-size="15" fill="#ddd6fe">CSS3</text>
+<rect x="163" y="86" width="67" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="174" y="105" font-size="15" fill="#ddd6fe">React</text>
+<text x="22" y="140" font-size="12" fill="#8a86a3" letter-spacing="2">BACKEND</text>
+<rect x="22" y="150" width="85" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="33" y="169" font-size="15" fill="#ddd6fe">Node.js</text>
+<rect x="115" y="150" width="112" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="126" y="169" font-size="15" fill="#ddd6fe">Express.js</text>
+<rect x="235" y="150" width="103" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="246" y="169" font-size="15" fill="#ddd6fe">REST APIs</text>
+<rect x="346" y="150" width="58" height="28" rx="4" fill="#1a1330" stroke="#3b2a66"/>
+<text x="357" y="169" font-size="15" fill="#ddd6fe">JSON</text>
+</svg>

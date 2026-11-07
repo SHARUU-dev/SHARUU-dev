@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="500" viewBox="0 0 408 500" role="img" aria-label="Status: building: Practical software, AI applications, automation systems and developer tools.; learning: Computer engineering, systems, networking and cybersecurity.; experimenting: AI assistants, automation and security tooling.; open to opportunities: Software, backend and AI application roles, plus freelance work." font-family="'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>Status: building: Practical software, AI applications, automation systems and developer tools.; learning: Computer engineering, systems, networking and cybersecurity.; experimenting: AI assistants, automation and security tooling.; open to opportunities: Software, backend and AI application roles, plus freelance work.</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/></pattern>
+<style>
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes sweep{from{transform:translateX(-140px)}to{transform:translateX(840px)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(420px)}}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes bars{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes flip{0%,45%{opacity:.25}55%,100%{opacity:1}}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite;transform-box:view-box}
+.float{animation:float 5s ease-in-out infinite}
+.sweep{animation:sweep 5s linear infinite}
+.scan{animation:scan 8s linear infinite}
+.tag{animation:type 2.2s steps(31,end) .5s both}
+.rise{animation:rise .8s ease-out both}
+.bar{transform-box:fill-box;transform-origin:center;animation:bars 1.8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect width="408" height="500" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="407" height="499" rx="8" fill="#100f18" stroke="#2a2144"/>
+<rect x="0" y="8" width="3" height="484" fill="#34d399"/>
+<text x="28" y="36" font-size="13" fill="#8a86a3" letter-spacing="3">// status</text>
+<circle class="pulse" cx="382" cy="31" r="4" fill="#34d399"/>
+<rect x="28" y="62" width="95.4" height="22" rx="11" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-opacity=".7"/>
+<circle cx="41" cy="73" r="3" fill="#34d399"/>
+<text x="51" y="77" font-size="11" font-weight="700" letter-spacing="1.6" fill="#34d399">BUILDING</text>
+<text x="28" y="104" font-size="13" fill="#e7e5f2">Practical software, AI applications,</text>
+<text x="28" y="124" font-size="13" fill="#e7e5f2">automation systems and developer tools.</text>
+<rect x="28" y="138" width="352" height="1" fill="#2a2144"/>
+<rect x="28" y="150" width="95.4" height="22" rx="11" fill="#c4b5fd" fill-opacity=".10" stroke="#c4b5fd" stroke-opacity=".7"/>
+<circle cx="41" cy="161" r="3" fill="#c4b5fd"/>
+<text x="51" y="165" font-size="11" font-weight="700" letter-spacing="1.6" fill="#c4b5fd">LEARNING</text>
+<text x="28" y="192" font-size="13" fill="#e7e5f2">Computer engineering, systems, networking</text>
+<text x="28" y="212" font-size="13" fill="#e7e5f2">and cybersecurity.</text>
+<rect x="28" y="226" width="352" height="1" fill="#2a2144"/>
+<rect x="28" y="238" width="137.5" height="22" rx="11" fill="#8b5cf6" fill-opacity=".10" stroke="#8b5cf6" stroke-opacity=".7"/>
+<circle cx="41" cy="249" r="3" fill="#8b5cf6"/>
+<text x="51" y="253" font-size="11" font-weight="700" letter-spacing="1.6" fill="#8b5cf6">EXPERIMENTING</text>
+<text x="28" y="280" font-size="13" fill="#e7e5f2">AI assistants, automation and security</text>
+<text x="28" y="300" font-size="13" fill="#e7e5f2">tooling.</text>
+<rect x="28" y="314" width="352" height="1" fill="#2a2144"/>
+<rect x="28" y="326" width="204.8" height="22" rx="11" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-opacity=".7"/>
+<circle cx="41" cy="337" r="3" fill="#34d399"/>
+<text x="51" y="341" font-size="11" font-weight="700" letter-spacing="1.6" fill="#34d399">OPEN TO OPPORTUNITIES</text>
+<text x="28" y="368" font-size="13" fill="#e7e5f2">Software, backend and AI application roles,</text>
+<text x="28" y="388" font-size="13" fill="#e7e5f2">plus freelance work.</text>
+</svg>

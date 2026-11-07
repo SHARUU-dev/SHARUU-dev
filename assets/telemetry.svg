@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="832" height="392" viewBox="0 0 832 392" role="img" aria-label="GitHub telemetry: 6 repositories, 2 followers, 4 following, — stars earned. Contributions in the last 12 months: —; current streak — days; longest streak — days." font-family="'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>GitHub telemetry: 6 repositories, 2 followers, 4 following, — stars earned. Contributions in the last 12 months: —; current streak — days; longest streak — days.</title>
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="832" height="392" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="831" height="391" rx="8" fill="#100f18" stroke="#2a2144"/>
+<rect x="0" y="8" width="3" height="376" fill="#8b5cf6"/>
+<text x="28" y="36" font-size="13" fill="#8a86a3" letter-spacing="3">// github telemetry</text>
+<circle cx="654.6" cy="32" r="4" fill="#8a86a3"><animate attributeName="opacity" values="1;.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="808" y="36" font-size="12" fill="#8a86a3" text-anchor="end">awaiting first sync</text>
+<rect x="22" y="56" width="188" height="76" rx="8" fill="#15112a" stroke="#2f2352"/>
+<path transform="translate(174 70) scale(0.7500)" d="M3 2.75A2.75 2.75 0 0 1 5.75 0h14.5a.75.75 0 0 1 .75.75v20.5a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h5.25v-4H6A1.5 1.5 0 0 0 4.5 18v.75c0 .716.43 1.334 1.05 1.605a.75.75 0 0 1-.6 1.374A3.25 3.25 0 0 1 3 18.75ZM19.5 1.5H5.75c-.69 0-1.25.56-1.25 1.25v12.651A3 3 0 0 1 6 15h13.5Z M7 18.25a.25.25 0 0 1 .25-.25h5a.25.25 0 0 1 .25.25v5.01a.25.25 0 0 1-.397.201l-2.206-1.604a.25.25 0 0 0-.294 0L7.397 23.46a.25.25 0 0 1-.397-.2z" fill="#c4b5fd"/>
+<text x="38" y="102" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#e7e5f2">6</text>
+<text x="38" y="122" font-size="11" fill="#8a86a3" letter-spacing="2">REPOSITORIES</text>
+<rect x="222" y="56" width="188" height="76" rx="8" fill="#15112a" stroke="#2f2352"/>
+<path transform="translate(374 70) scale(0.7500)" d="M3.5 8a5.5 5.5 0 1 1 8.596 4.547 9.005 9.005 0 0 1 5.9 8.18.751.751 0 0 1-1.5.045 7.5 7.5 0 0 0-14.993 0 .75.75 0 0 1-1.499-.044 9.005 9.005 0 0 1 5.9-8.181A5.5 5.5 0 0 1 3.5 8M9 4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m8.29 4q-.221 0-.434.03a.75.75 0 1 1-.212-1.484 4.53 4.53 0 0 1 3.38 8.097 6.69 6.69 0 0 1 3.956 6.107.75.75 0 0 1-1.5 0 5.19 5.19 0 0 0-3.696-4.972l-.534-.16v-1.676l.41-.209A3.03 3.03 0 0 0 17.29 8" fill="#c4b5fd"/>
+<text x="238" y="102" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#e7e5f2">2</text>
+<text x="238" y="122" font-size="11" fill="#8a86a3" letter-spacing="2">FOLLOWERS</text>
+<rect x="422" y="56" width="188" height="76" rx="8" fill="#15112a" stroke="#2f2352"/>
+<path transform="translate(574 70) scale(0.7500)" d="M12 2.5a5.5 5.5 0 0 1 3.096 10.047 9.005 9.005 0 0 1 5.9 8.181.75.75 0 1 1-1.499.044 7.5 7.5 0 0 0-14.993 0 .75.75 0 0 1-1.5-.045 9.005 9.005 0 0 1 5.9-8.18A5.5 5.5 0 0 1 12 2.5M8 8a4 4 0 1 0 8 0 4 4 0 0 0-8 0" fill="#c4b5fd"/>
+<text x="438" y="102" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#e7e5f2">4</text>
+<text x="438" y="122" font-size="11" fill="#8a86a3" letter-spacing="2">FOLLOWING</text>
+<rect x="622" y="56" width="188" height="76" rx="8" fill="#15112a" stroke="#2f2352"/>
+<path transform="translate(774 70) scale(0.7500)" d="M12 .25a.75.75 0 0 1 .673.418l3.058 6.197 6.839.994a.75.75 0 0 1 .415 1.279l-4.948 4.823 1.168 6.811a.751.751 0 0 1-1.088.791L12 18.347l-6.117 3.216a.75.75 0 0 1-1.088-.79l1.168-6.812-4.948-4.823a.75.75 0 0 1 .416-1.28l6.838-.993L11.328.668A.75.75 0 0 1 12 .25m0 2.445L9.44 7.882a.75.75 0 0 1-.565.41l-5.725.832 4.143 4.038a.75.75 0 0 1 .215.664l-.978 5.702 5.121-2.692a.75.75 0 0 1 .698 0l5.12 2.692-.977-5.702a.75.75 0 0 1 .215-.664l4.143-4.038-5.725-.831a.75.75 0 0 1-.565-.41z" fill="#c4b5fd"/>
+<text x="638" y="102" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#e7e5f2">—</text>
+<text x="638" y="122" font-size="11" fill="#8a86a3" letter-spacing="2">STARS EARNED</text>
+<rect x="22" y="146" width="500" height="216" rx="8" fill="#15112a" stroke="#2f2352"/>
+<text x="38" y="172" font-size="11" fill="#8a86a3" letter-spacing="2">CONTRIBUTIONS · LAST 12 MONTHS</text>
+<text x="38" y="214" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="800" fill="#e7e5f2">—</text>
+<text x="212" y="194" font-size="11" fill="#8a86a3" letter-spacing="1.5">CURRENT STREAK</text>
+<text x="212" y="216" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#34d399">—<tspan font-size="12" fill="#9b8fd0" font-weight="400"> days</tspan></text>
+<text x="362" y="194" font-size="11" fill="#8a86a3" letter-spacing="1.5">LONGEST STREAK</text>
+<text x="362" y="216" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#34d399">—<tspan font-size="12" fill="#9b8fd0" font-weight="400"> days</tspan></text>
+<rect x="38" y="328" width="468" height="2" fill="#2a2144"/>
+<text x="272.0" y="283.0" font-size="12" fill="#8a86a3" text-anchor="middle">weekly activity appears after the first sync</text>
+<rect x="534" y="146" width="276" height="216" rx="8" fill="#15112a" stroke="#2f2352"/>
+<text x="550" y="172" font-size="11" fill="#8a86a3" letter-spacing="2">TOP LANGUAGES</text>
+<text x="672.0" y="254.0" font-size="12" fill="#8a86a3" text-anchor="middle">language mix appears</text>
+<text x="672.0" y="272.0" font-size="12" fill="#8a86a3" text-anchor="middle">after the first sync</text>
+<text x="28" y="384" font-size="10.5" fill="#8a86a3">source: GitHub API · forks excluded from languages and stars · refreshed by GitHub Actions</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="442" viewBox="0 0 408 442" role="img" aria-label="BEE.OS: My Discord moderation and server management platform. Tags: TypeScript, AutoMod, Tickets, Logging, Role panels, Anti-Raid, Levels &amp; XP, Giveaways, Owner panel." font-family="'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>BEE.OS: My Discord moderation and server management platform. Tags: TypeScript, AutoMod, Tickets, Logging, Role panels, Anti-Raid, Levels &amp; XP, Giveaways, Owner panel.</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/></pattern>
+<style>
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes sweep{from{transform:translateX(-140px)}to{transform:translateX(840px)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(420px)}}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes bars{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes flip{0%,45%{opacity:.25}55%,100%{opacity:1}}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite;transform-box:view-box}
+.float{animation:float 5s ease-in-out infinite}
+.sweep{animation:sweep 5s linear infinite}
+.scan{animation:scan 8s linear infinite}
+.tag{animation:type 2.2s steps(31,end) .5s both}
+.rise{animation:rise .8s ease-out both}
+.bar{transform-box:fill-box;transform-origin:center;animation:bars 1.8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect width="408" height="442" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="407" height="441" rx="8" fill="#100f18" stroke="#2a2144"/>
+<clipPath id="art"><rect x="1" y="1" width="406" height="170" rx="7"/></clipPath>
+<g clip-path="url(#art)"><rect x="1" y="1" width="406" height="170" fill="#0c0a16"/><rect x="1" y="1" width="406" height="170" fill="url(#grid)"/><rect class="sweep" x="0" y="1" width="140" height="170" fill="#8b5cf6" fill-opacity=".05"/><g class="float"><rect x="58" y="24" width="292" height="122" rx="10" fill="#15112a" stroke="#2a2144"/><rect x="58" y="24" width="292" height="22" rx="10" fill="#0d0a1c"/><rect x="58" y="36" width="292" height="10" fill="#0d0a1c"/><circle cx="74" cy="35" r="3.5" fill="#6d28d9"/><circle cx="88" cy="35" r="3.5" fill="#8b5cf6"/><circle cx="102" cy="35" r="3.5" fill="#34d399"/><rect x="116" y="46" width="1" height="100" fill="#2a2144"/><rect x="70" y="60" width="34" height="8" rx="4" fill="#8b5cf6" fill-opacity="0.16"/><rect x="70" y="80" width="34" height="8" rx="4" fill="#8b5cf6" fill-opacity="0.5"/><rect x="70" y="100" width="34" height="8" rx="4" fill="#8b5cf6" fill-opacity="0.16"/><rect x="70" y="120" width="34" height="8" rx="4" fill="#8b5cf6" fill-opacity="0.16"/><rect x="130" y="58" width="206" height="20" rx="6" fill="#1a1330" stroke="#2f2352"/><rect x="142" y="65" width="90" height="6" rx="3" fill="#c4b5fd" fill-opacity=".4"/><rect x="296" y="62" width="28" height="12" rx="6" fill="#34d399" fill-opacity="0.85"/><circle cx="317" cy="68" r="4.5" fill="#e7e5f2"/><rect x="130" y="84" width="206" height="20" rx="6" fill="#1a1330" stroke="#2f2352"/><rect x="142" y="91" width="130" height="6" rx="3" fill="#c4b5fd" fill-opacity=".4"/><rect x="296" y="88" width="28" height="12" rx="6" fill="#2a2144" fill-opacity="1"/><circle cx="303" cy="94" r="4.5" fill="#e7e5f2"/><rect x="130" y="110" width="206" height="20" rx="6" fill="#1a1330" stroke="#2f2352"/><rect x="142" y="117" width="70" height="6" rx="3" fill="#c4b5fd" fill-opacity=".4"/><rect x="296" y="114" width="28" height="12" rx="6" fill="#34d399" fill-opacity="0.85"/><circle cx="317" cy="120" r="4.5" fill="#e7e5f2"/><circle class="pulse" cx="334" cy="35" r="3.5" fill="#34d399"/></g></g>
+<rect x="1" y="170" width="406" height="1" fill="#2a2144"/>
+<text x="22" y="30" font-size="13" fill="#8a86a3" letter-spacing="2">P/02</text>
+<rect x="228.9" y="14" width="157.1" height="24" rx="12" fill="#100f18" fill-opacity=".9" stroke="#8b5cf6" stroke-opacity=".7"/>
+<text x="307.4" y="30" font-size="11" font-weight="700" letter-spacing="1.5" fill="#c4b5fd" text-anchor="middle">DISCORD PLATFORM</text>
+<text x="22" y="226" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="1" fill="url(#gWord)">BEE.OS</text>
+<rect x="22" y="240" width="36" height="2" fill="#34d399" fill-opacity=".85"/>
+<text x="22" y="268" font-size="15" fill="#e7e5f2">My Discord moderation and server</text>
+<text x="22" y="292" font-size="15" fill="#e7e5f2">management platform.</text>
+<rect x="22.0" y="310" width="104.6" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34.0" y="328.5" font-size="13" fill="#c4b5fd">TypeScript</text><rect x="134.6" y="310" width="80.4" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="146.6" y="328.5" font-size="13" fill="#c4b5fd">AutoMod</text><rect x="223.0" y="310" width="80.4" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="235.0" y="328.5" font-size="13" fill="#c4b5fd">Tickets</text><rect x="22.0" y="346" width="80.4" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34.0" y="364.5" font-size="13" fill="#c4b5fd">Logging</text><rect x="110.4" y="346" width="112.7" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="122.4" y="364.5" font-size="13" fill="#c4b5fd">Role panels</text><rect x="231.1" y="346" width="96.5" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="243.1" y="364.5" font-size="13" fill="#c4b5fd">Anti-Raid</text><rect x="22.0" y="382" width="112.7" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34.0" y="400.5" font-size="13" fill="#c4b5fd">Levels &amp; XP</text><rect x="142.7" y="382" width="96.5" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="154.7" y="400.5" font-size="13" fill="#c4b5fd">Giveaways</text><rect x="247.2" y="382" width="112.7" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="259.2" y="400.5" font-size="13" fill="#c4b5fd">Owner panel</text>
+</svg>

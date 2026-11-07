@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="370" viewBox="0 0 408 370" role="img" aria-label="SENTINEL: My C++ security-focused project. Tags: C++, OOP, File scanning." font-family="'JetBrains Mono','SF Mono',SFMono-Regular,ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<title>SENTINEL: My C++ security-focused project. Tags: C++, OOP, File scanning.</title>
+<defs>
+<linearGradient id="gWord" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ede9fe"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+<linearGradient id="gFade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+<linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#34d399" stop-opacity=".9"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8b5cf6" stroke-opacity=".08"/></pattern>
+<style>
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes sweep{from{transform:translateX(-140px)}to{transform:translateX(840px)}}
+@keyframes scan{from{transform:translateY(-4px)}to{transform:translateY(420px)}}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes bars{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes flip{0%,45%{opacity:.25}55%,100%{opacity:1}}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite;transform-box:view-box}
+.float{animation:float 5s ease-in-out infinite}
+.sweep{animation:sweep 5s linear infinite}
+.scan{animation:scan 8s linear infinite}
+.tag{animation:type 2.2s steps(31,end) .5s both}
+.rise{animation:rise .8s ease-out both}
+.bar{transform-box:fill-box;transform-origin:center;animation:bars 1.8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<rect width="408" height="370" fill="#0a0a0f"/>
+<rect x=".5" y=".5" width="407" height="369" rx="8" fill="#100f18" stroke="#2a2144"/>
+<clipPath id="art"><rect x="1" y="1" width="406" height="194" rx="7"/></clipPath>
+<g clip-path="url(#art)"><rect x="1" y="1" width="406" height="194" fill="#0c0a16"/><rect x="1" y="1" width="406" height="194" fill="url(#grid)"/><rect class="sweep" x="0" y="1" width="140" height="194" fill="#8b5cf6" fill-opacity=".05"/><g class="float"><circle cx="204.0" cy="97.0" r="89.0" fill="none" stroke="#8b5cf6" stroke-opacity=".45"/><circle cx="204.0" cy="97.0" r="58.7" fill="none" stroke="#8b5cf6" stroke-opacity=".45"/><circle cx="204.0" cy="97.0" r="29.4" fill="none" stroke="#8b5cf6" stroke-opacity=".45"/><line x1="115.0" y1="97.0" x2="293.0" y2="97.0" stroke="#2a2144"/><line x1="204.0" y1="8.0" x2="204.0" y2="186.0" stroke="#2a2144"/><g class="spin" style="transform-origin:204.0px 97.0px"><path d="M 204.0 97.0 L 293.0 97.0 A 89.0 89.0 0 0 0 272.2 39.8 Z" fill="#34d399" fill-opacity=".20"/><line x1="204.0" y1="97.0" x2="293.0" y2="97.0" stroke="#34d399" stroke-width="2"/></g><circle class="pulse" style="animation-delay:0.0s" cx="248.5" cy="61.4" r="3.2" fill="#34d399"/><circle class="pulse" style="animation-delay:0.7s" cx="150.6" cy="119.2" r="3.2" fill="#34d399"/><circle class="pulse" style="animation-delay:1.4s" cx="226.2" cy="152.2" r="3.2" fill="#34d399"/><circle class="pulse" style="animation-delay:2.1s" cx="172.8" cy="45.4" r="3.2" fill="#34d399"/><path d="M 204.0 75.0 L 221.6 83.8 V 99.2 C 221.6 110.2 209.5 117.9 204.0 121.2 C 198.5 117.9 186.4 110.2 186.4 99.2 V 83.8 Z" fill="#100f18" stroke="#8b5cf6" stroke-width="2"/><text x="204.0" y="102.0" font-size="11" font-weight="700" fill="#c4b5fd" text-anchor="middle">C++</text></g></g>
+<rect x="1" y="194" width="406" height="1" fill="#2a2144"/>
+<text x="22" y="30" font-size="13" fill="#8a86a3" letter-spacing="2">P/04</text>
+<rect x="295.4" y="14" width="90.6" height="24" rx="12" fill="#100f18" fill-opacity=".9" stroke="#8b5cf6" stroke-opacity=".7"/>
+<text x="340.7" y="30" font-size="11" font-weight="700" letter-spacing="1.5" fill="#c4b5fd" text-anchor="middle">SECURITY</text>
+<text x="22" y="250" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="1" fill="url(#gWord)">SENTINEL</text>
+<rect x="22" y="264" width="36" height="2" fill="#34d399" fill-opacity=".85"/>
+<text x="22" y="292" font-size="15" fill="#e7e5f2">My C++ security-focused project.</text>
+<rect x="22.0" y="310" width="48.2" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34.0" y="328.5" font-size="13" fill="#c4b5fd">C++</text><rect x="78.2" y="310" width="48.2" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="90.2" y="328.5" font-size="13" fill="#c4b5fd">OOP</text><rect x="134.4" y="310" width="128.8" height="28" rx="14.0" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".45"/><text x="146.4" y="328.5" font-size="13" fill="#c4b5fd">File scanning</text>
+</svg>
